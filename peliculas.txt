@@ -6,6 +6,10 @@ PELICULAS FAVORITAS
 
 Esto se agrego a las 11:02
 
-1- Aladi
+1- Aladin
 2-La sirenita
 3- Hercules 
+-------Se agregaron peliculas en la rama conflicto a la 1:58------
+1-Como entrenar a tu dragon
+2-Mario Galaxy
+3-el diablo viste a la moda
