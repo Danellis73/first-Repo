@@ -6,8 +6,8 @@ PELICULAS FAVORITAS
 
 Esto se agrego a las 11:02
 
-1- Aladi
-2-La sirenita
+1- Aladin
+2-La sirenitaD
 3- Hercules  
 
 ----------esto se agrego en la rama main a las 2:08---
