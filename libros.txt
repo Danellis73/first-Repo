@@ -4,3 +4,9 @@ Nombre de tres libros
 2-El principito
 3-Los hornos de Hitler
 
+Se agregaron tres libros mas a la 1:34
+
+1-Hábitos atomicos
+2-El perfume
+3-la mecanica del crazon2
+
